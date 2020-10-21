@@ -1,0 +1,26 @@
+/*--------------------------------tag selector--------------*/
+body{
+  background-color: #f1f3de;
+}
+hr{
+  color:gray;
+  border-style:dotted none none none;
+width: 5%;
+border-width: 5px;
+}
+h1{
+  color:#66BFBF;
+}
+h3{
+  color:#66BFBF;
+}
+img{
+  background-color: yellow;
+}
+.rohit{
+  border-collapse: collapse;
+  border-color: blue;
+}
+#circular{
+  border-radius: 75%;
+}
